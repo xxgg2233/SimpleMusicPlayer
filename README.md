@@ -10,3 +10,5 @@
 
 界面如下所示
 
+![WPS图片-修改尺寸](https://user-images.githubusercontent.com/54337552/143851183-1db5a9eb-0f66-4b7b-866b-674614e4b2a9.png)
+![WPS图片-修改尺寸2](https://user-images.githubusercontent.com/54337552/143851214-3c03e9b9-d406-4f05-956d-40b600a5d532.png)
